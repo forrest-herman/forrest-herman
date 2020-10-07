@@ -1,7 +1,10 @@
 ### Hi, my name is Forrest! 👋
 
 🌱 I’m currently learning Python GUI with Kivy and MATLAB Simulink!
+
 📫 How to reach me: hermanf@mcmaster.ca
+
+📷 I also love photography and filmmaking!
 
 <!--
 **forrest-herman/forrest-herman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
