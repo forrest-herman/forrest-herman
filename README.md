@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 🌱 I’m currently learning Python GUI with Kivy and MATLAB Simulink!
-📫 How to reach me: hermanf@mcmaster.ca
+\n📫 How to reach me: hermanf@mcmaster.ca
 
 <!--
 **forrest-herman/forrest-herman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
