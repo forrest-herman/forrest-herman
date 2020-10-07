@@ -1,6 +1,6 @@
 ### Hi, my name is Forrest! 👋
 
-🌱 I’m currently learning Python GUI with Kivy and MATLAB Simulink!
+🌱 I’m currently building a Python GUI using Kivy!
 
 📫 How to reach me: hermanf@mcmaster.ca
 
