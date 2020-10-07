@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, my name is Forrest! 👋
 
 🌱 I’m currently learning Python GUI with Kivy and MATLAB Simulink!
 📫 How to reach me: hermanf@mcmaster.ca
