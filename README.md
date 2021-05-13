@@ -1,6 +1,6 @@
 ### Hi, my name is Forrest! 👋
 
-🐍 I’m currently building a Python GUI using Kivy!
+💻 Web Developer for Atomic Inc.
 
 📫 How to reach me: hermanf@mcmaster.ca
 
