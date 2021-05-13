@@ -1,6 +1,6 @@
 ### Hi, my name is Forrest! 👋
 
-💻 Web Developer for Atomic Inc.
+💻 Web Developer for Atomic Inc. (http://atomicgrowth.co/)
 
 📫 How to reach me: hermanf@mcmaster.ca
 
