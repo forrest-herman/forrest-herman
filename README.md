@@ -4,7 +4,7 @@
 
 📫 How to reach me: hermanf@mcmaster.ca
 
-📷 I also love photography and filmmaking!
+📷 I also love photography and filmmaking! (https://forrestherman.ca)
 
 <!--
 **forrest-herman/forrest-herman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
