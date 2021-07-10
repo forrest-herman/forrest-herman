@@ -1,4 +1,4 @@
-![alt text](https://github.com/forrest-herman/main/initials.jpg?raw=true)
+![alt text](https://github.com/forrest-herman/blob/main/initials.jpg?raw=true)
 
 ### Hi, my name is Forrest! 👋
 
