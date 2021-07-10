@@ -1,7 +1,6 @@
 <img src="https://github.com/forrest-herman/forrest-herman/blob/main/initials.jpg?raw=true" width="120">
 
-### Hi, my name is Forrest! 👋
-\
+### Hi, my name is Forrest! 👋\
 💻 Web Developer for Atomic Inc. (http://atomicgrowth.co/)
 \
 📫 How to reach me: hermanf@mcmaster.ca
