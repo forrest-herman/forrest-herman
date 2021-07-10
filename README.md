@@ -1,11 +1,11 @@
-![alt text](https://github.com/forrest-herman/forrest-herman/blob/main/initials.jpg?raw=true)
-<img src="https://github.com/forrest-herman/forrest-herman/blob/main/initials.jpg?raw=true" width="48">
+<img src="https://github.com/forrest-herman/forrest-herman/blob/main/initials.jpg?raw=true" width="120">
 ### Hi, my name is Forrest! 👋
 
+\
 💻 Web Developer for Atomic Inc. (http://atomicgrowth.co/)
-
+\
 📫 How to reach me: hermanf@mcmaster.ca
-
+\
 📷 I also love photography and filmmaking! (https://forrestherman.ca)
 
 <!--
