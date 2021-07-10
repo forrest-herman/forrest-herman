@@ -1,4 +1,4 @@
-![Site Demo]("Initials Logo.jpg")
+![alt text](https://github.com/forrest-herman/main/initials.jpg?raw=true)
 
 ### Hi, my name is Forrest! 👋
 
