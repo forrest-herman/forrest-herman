@@ -10,7 +10,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Forrest Herman | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Forrest Herman | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
 [<img align="left" alt="Forrest Herman | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][email]
 
 <br />
