@@ -11,10 +11,12 @@
 ### Connect with me:
 
 [<img align="left" alt="Forrest Herman | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Forrest Herman | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][email]
 
 <br />
 
 [linkedin]: https://www.linkedin.com/in/forrest-herman/
+[email]: hermanf@mcmaster.ca
 
 <!--
 **forrest-herman/forrest-herman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
