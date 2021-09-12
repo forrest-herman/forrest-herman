@@ -1,11 +1,20 @@
 ### Hi, my name is Forrest! 👋
+
 💻 Web Developer for Atomic Inc. (http://atomicgrowth.co/)
 \
 📫 How to reach me: hermanf@mcmaster.ca
 \
-📷 I also love photography and filmmaking! (https://forrestherman.ca)
+📷 Fun Fact: I also love photography and filmmaking! (https://forrestherman.ca)
 
 <img src="https://github.com/forrest-herman/forrest-herman/blob/main/initials.jpg?raw=true" width="120">
+
+### Connect with me:
+
+[<img align="left" alt="Forrest Herman | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+<br />
+
+[linkedin]: https://www.linkedin.com/in/forrest-herman/
 
 <!--
 **forrest-herman/forrest-herman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
