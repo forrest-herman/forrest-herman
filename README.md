@@ -6,6 +6,7 @@
 \
 📷 Fun Fact: I also love photography and filmmaking! (https://forrestherman.ca)
 
+![Initials FH Logo (white) square](https://user-images.githubusercontent.com/58410716/164383020-5c9c0202-140b-422a-b543-2efa374bceaf.png)
 <img src="https://github.com/forrest-herman/forrest-herman/blob/main/initials.jpg?raw=true" width="120">
 
 ### Connect with me:
