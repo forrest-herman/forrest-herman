@@ -1,6 +1,6 @@
 ### Hi, my name is Forrest! 👋
 
-💻 Full-stack Developer for Preteckt Inc. (https://preteckt.com/) 
+💻 Full-stack Developer for [Preteckt Inc.](https://preteckt.com/) 
 \
 📫 How to reach me: hermanf@mcmaster.ca
 \
