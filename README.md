@@ -1,6 +1,6 @@
 ### Hi, my name is Forrest! 👋
 
-💻 Web Developer for Atomic Inc. (http://atomicgrowth.co/)
+💻 Full-stack Developer for Preteckt Inc. (https://preteckt.com/) 
 \
 📫 How to reach me: hermanf@mcmaster.ca
 \
