@@ -2,7 +2,7 @@
 
 💻 Full-stack Developer for [Preteckt Inc.](https://preteckt.com/) 
 \
-📫 How to reach me: eng@forrestherman.ca
+📫 How to reach me: [eng@forrestherman.ca][email]
 \
 📷 Fun Fact: I also love photography and filmmaking! (https://forrestherman.ca)
 
@@ -29,7 +29,7 @@
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][resume]
 
 [linkedin]: https://www.linkedin.com/in/forrest-herman/
-[email]: mailto:hermanf@mcmaster.ca
+[email]: mailto:eng@forrestherman.ca
 [resume]: https://forrest-herman.github.io/resume.pdf
 
 <!--
