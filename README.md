@@ -2,7 +2,7 @@
 
 💻 Full-stack Developer for [Preteckt Inc.](https://preteckt.com/) 
 \
-📫 How to reach me: hermanf@mcmaster.ca
+📫 How to reach me: eng@forrestherman.ca
 \
 📷 Fun Fact: I also love photography and filmmaking! (https://forrestherman.ca)
 
