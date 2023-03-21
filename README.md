@@ -1,6 +1,6 @@
 ### Hi, my name is Forrest! 👋
 
-💻 Full-stack Developer for [Preteckt Inc.](https://preteckt.com/) 
+💻 Full-stack & Firmware Developer for [OtO Lawn]([https://preteckt.com/](https://otolawn.com/)) 
 \
 📫 How to reach me: [eng@forrestherman.ca][email]
 \
