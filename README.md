@@ -1,6 +1,6 @@
 ### Hi, my name is Forrest! 👋
 
-📫 How to reach me: [eng@forrestherman.ca][email]
+📫 How to reach me: [forrestherman.eng@gmail.com][email]
 \
 📷 Fun Fact: I also love photography and filmmaking! (https://forrestherman.ca)
 
